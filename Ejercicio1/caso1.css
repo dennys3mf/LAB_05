@@ -1,0 +1,89 @@
+*{
+    padding: 0px;
+    margin: 0;
+    font-family: Josefin Sans, sans-serif;;  
+}
+body{
+    background: rgb(182, 255, 180);
+    
+}
+
+.form{
+    text-align: center;
+}
+ h1{
+     margin: 20px;
+ }
+
+ h2{
+     margin: 10px;
+ }
+ input{
+     border-radius: 10%;
+     margin: 20px;
+     padding: 6px;
+     font-size: large;
+     background-color: rgb(135, 242, 242);
+     align-items: center;
+ }
+ 
+
+.lista{
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+}
+
+.com{
+    flex: 1;
+    padding: 15px;
+    min-width: 200px;
+    background-image: url(https://th.bing.com/th/id/R.2cec91ebea8c1d2a7c0da6d83e3f4f70?rik=w0xUwInwj8wwQg&riu=http%3a%2f%2fwww.solofondos.com%2fwp-content%2fuploads%2f2015%2f11%2ftableback.jpg&ehk=uWF37NrSRMfJiisAMOigq3SwKCQvuPcDcYwCqF8MWhg%3d&risl=&pid=ImgRaw&r=0);
+    margin: 20px;
+    border-radius: 10%;
+}
+.bon{
+    flex: 1;
+    padding: 15px;
+    min-width: 200px;
+    background-image: url(https://th.bing.com/th/id/R.2cec91ebea8c1d2a7c0da6d83e3f4f70?rik=w0xUwInwj8wwQg&riu=http%3a%2f%2fwww.solofondos.com%2fwp-content%2fuploads%2f2015%2f11%2ftableback.jpg&ehk=uWF37NrSRMfJiisAMOigq3SwKCQvuPcDcYwCqF8MWhg%3d&risl=&pid=ImgRaw&r=0);
+    margin: 20px;
+    border-radius: 10%;
+}
+.suelb{
+    flex: 1;
+    padding: 15px;
+    min-width: 200px;
+    background-image: url(https://th.bing.com/th/id/R.2cec91ebea8c1d2a7c0da6d83e3f4f70?rik=w0xUwInwj8wwQg&riu=http%3a%2f%2fwww.solofondos.com%2fwp-content%2fuploads%2f2015%2f11%2ftableback.jpg&ehk=uWF37NrSRMfJiisAMOigq3SwKCQvuPcDcYwCqF8MWhg%3d&risl=&pid=ImgRaw&r=0);
+    margin: 20px;
+    border-radius: 10%;
+}
+.des{
+    flex: 1;
+    padding: 15px;
+    min-width: 200px;
+    background-image: url(https://th.bing.com/th/id/R.2cec91ebea8c1d2a7c0da6d83e3f4f70?rik=w0xUwInwj8wwQg&riu=http%3a%2f%2fwww.solofondos.com%2fwp-content%2fuploads%2f2015%2f11%2ftableback.jpg&ehk=uWF37NrSRMfJiisAMOigq3SwKCQvuPcDcYwCqF8MWhg%3d&risl=&pid=ImgRaw&r=0);
+    margin: 20px;
+    border-radius: 10%;
+}
+.sueln{
+    flex: 1;
+    padding: 15px;
+    min-width: 200px;
+    background-image: url(https://th.bing.com/th/id/R.2cec91ebea8c1d2a7c0da6d83e3f4f70?rik=w0xUwInwj8wwQg&riu=http%3a%2f%2fwww.solofondos.com%2fwp-content%2fuploads%2f2015%2f11%2ftableback.jpg&ehk=uWF37NrSRMfJiisAMOigq3SwKCQvuPcDcYwCqF8MWhg%3d&risl=&pid=ImgRaw&r=0);
+    margin: 20px;
+    border-radius: 10%;
+    
+}
+
+li{
+    font-size: 120%;
+}
+
+
+
+
+
+
+
+    
